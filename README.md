@@ -6,9 +6,13 @@
 - Git
 - GitHub
   
-- <img width="1920" height="1080" alt="screen<img width="1920" height="1080" alt="screenshot 2" src="https://github.com/user-attachments/assets/d4498182-0a40-41d3-9973-bec4dd3128bb" />
+- <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/fed97a5c-d2c1-4354-95a5-7c6906fc5846" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/6c3d218e-7ac8-4091-8ece-6118d42a7ef0" />
 
-- shot1" src="https://github.com/user-attachments/assets/dad83e1f-14bb-4d73-aa5f-d278e9d0c2c2" />
+
+
+
+  
 
 <!DOCTYPE html>
 <html lang="en">
